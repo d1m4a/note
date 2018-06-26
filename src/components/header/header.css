@@ -1,0 +1,24 @@
+.header{
+  background-color: #17100A;
+  min-height: 50px;
+  text-align: right;
+  margin-bottom: 10rem;
+  line-height: 50px;
+}
+.header__btn{
+  display: inline-block;
+  padding: 5px 20px;
+  margin-right: 40px;
+}
+.header__btn--styl{
+  color: #fff;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 1.3rem;
+  border-radius: 5px;
+}  
+
+.header__btn:hover{
+  color: #c0a793;
+  text-decoration: none;
+}

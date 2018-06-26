@@ -1,0 +1,13 @@
+var config = {
+  apiKey: "AIzaSyAxOKa85u4GJvQepUny250roa4RxYJBMdU",
+  authDomain: "utility-661dd.firebaseapp.com",
+  databaseURL: "https://utility-661dd.firebaseio.com",
+  projectId: "utility-661dd",
+  storageBucket: "utility-661dd.appspot.com",
+  messagingSenderId: "842901776074"
+};
+firebase.initializeApp(config);
+
+// https://github.com/firebase/quickstart-js/blob/master/auth/email-password.html
+// https://www.freetutorials.us/complete-react-js-web-developer-with-es6-build-10-projects-2/
+// https://www.valentinog.com/blog/react-webpack-babel/#How_to_set_up_React_webpack_and_Babel_setting_up_the_project
