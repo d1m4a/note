@@ -27,34 +27,3 @@
   width: 100%;
 }
 
-.form {
-  width: 100%;
-  max-width: 500px;
-  margin: 0 auto;
-  border-radius: 10px;
-  margin-bottom: 50px;
-}
-
-.form-control:focus{
-  border: 1px solid #17100a;
-  box-shadow: rgba(0, 0, 0, 0.075) 0px 1px 1px inset, rgba(23, 16, 10, 0.6) 0px 0px 8px;
-}
-.form-control,
-.btn{
-  font-family: "Oswald", sans-serif;
-  font-size: 1.5rem;
-}
-
-.btn-default{
-  background-color: #F6F0E2;
-  border: 1px #17100a solid;
-  color: #17100a;
-  padding: 10px 20px;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-  transition: all .3s ease;
-}
-.btn-default:hover{
-  background-color: #6A584A;
-  color: #fff;
-}

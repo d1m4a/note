@@ -17,11 +17,14 @@ body{
   height: 100vh;
 }
 
-.heading{
+.App__heading{
   font-size: 3rem;
   text-transform: uppercase;
   font-family: 'Oswald', sans-serif;
   font-weight: 500;
   margin-bottom: 3rem;
   color: #17100A;
+}
+.App__heading--center{
+  text-align: center;
 }

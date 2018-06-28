@@ -10,7 +10,7 @@ class App extends Component {
     return (
       <div className="App">
         <Header />
-        <h2 className="heading">Полезняшки и муть</h2>
+        <h2 className="App__heading">Реактная редуска</h2>
         <Items/>
       </div>
     );
