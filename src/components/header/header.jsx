@@ -37,7 +37,7 @@ export default class Header extends Component {
 
         <div className="popup__wrapper" onClick={this.handlePopupClick}></div>
         <div className="popup">
-          <h2 className="App__heading App__heading--center">Дрисня</h2>
+          <h2 className="App__heading App__heading--center">Войти или не стоит?</h2>
           <form onSubmit={this.handleEnter}>
             <div className="form-group">
               <input className="form-control" name="login" type="text" placeholder="введите логин"/>
